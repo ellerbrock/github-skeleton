@@ -1,12 +1,12 @@
-![xxx](https://github.frapsoft.com/top/open-source-v1.png)
+![{{PROJECT}}](https://github.frapsoft.com/top/open-source-v1.png)
 
-# xxx
+# {{PROJECT}}
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 ## Build Status
 
-[![Deadlink Test](https://travis-ci.org/ellerbrock/awesome-koa.svg?branch=master)](https://travis-ci.org/ellerbrock/awesome-koa)
+[![Deadlink Test](https://travis-ci.org/ellerbrock/{{PROJECT}}.svg?branch=master)](https://travis-ci.org/ellerbrock/{{PROJECT}})
 
 **Info:** Green Build Status means there should be no Deadlinks in this List.<br>
 You can find the Testfiles on [travis-deadlink-scanner](https://github.com/ellerbrock/travis-deadlink-scanner).
@@ -19,4 +19,4 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> [![MIT license](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
-This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ellerbrock/" property="cc:attributionName" rel="cc:attributionURL">Maik Ellerbrock</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> and the underlying source code is licensed under the <a rel="license" href="https://opensource.org/licenses/mit-license.php">MIT license</a>.
+This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ellerbrock" property="cc:attributionName" rel="cc:attributionURL">Maik Ellerbrock</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> and the underlying source code is licensed under the <a rel="license" href="https://opensource.org/licenses/mit-license.php">MIT license</a>.
